@@ -85,7 +85,7 @@ func StartClient(serverIP, username string) {
 				onlyUsernames = append(onlyUsernames, usernameChat)
 			}
 
-			choice := shellContent.MultiChoice(onlyUsernames, "A chi vuoi connetterti ?")
+			choice := shellContent.MultiChoice(onlyUsernames, "To whom do you want to write?")
 
 			currentChat := strings.Split(chats[choice], " -> ")[0]
 
