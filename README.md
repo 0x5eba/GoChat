@@ -12,7 +12,7 @@ After that, every message sent by the 2 clients is end-to-end, and no one a part
 ### Installation
 
 ```
-$ git clone https://github.com/0x5eba/Dexm.git
+$ git clone https://github.com/0x5eba/GoChat.git
 $ cd GoChat
 $ ./init.sh
 ```
