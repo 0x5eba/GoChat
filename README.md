@@ -1,5 +1,5 @@
 # GoChat
-A secure Go chat client-server end-to-end with RSA 2048 and AES 256
+A secure Go chat client-server end-to-end with RSA 2048 and AES 256 using WebSocket
 
 ## How it works
 
